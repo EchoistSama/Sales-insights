@@ -1,4 +1,4 @@
-Interactive Link - https://app.powerbi.com/links/DS-ESdaYRv?ctid=405ddc34-d660-46e5-b52d-bfd0be156bb5&pbi_source=linkShare
+Interactive Dashboard - https://app.powerbi.com/links/DS-ESdaYRv?ctid=405ddc34-d660-46e5-b52d-bfd0be156bb5&pbi_source=linkShare
 
 A hardware company aims to determine which companies purchasing their products are the most profitable clients. Statistics such as revenue generated and quantity of products sold are displayed based on criteria such as company and city spread across a period of 4 years.
 Data from the database "Sales" containing the tables - "customers", "date", "markets", "products", "transactions" is imported into SQL for data verification. Once verified, we connect to the SQL Server Database to begin working on this data in Power Bi.
